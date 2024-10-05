@@ -3,7 +3,9 @@ A simple C program to represent and sort polynomial expressions.
 - Stores polynomials using array of structures
 - Sorts terms by exponents
 - Displays polynomial in standard form (ax^n + bx^m + ...)
-
+<p align='center'>
+  <img title="Polynomial" alt="Alt Polynomial" src="/images/polynomial_1.svg">
+</p>
 <br>
 Example
 
