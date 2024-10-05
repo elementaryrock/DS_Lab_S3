@@ -1,11 +1,15 @@
-## 1.Polynomial Representation
+## 1. Polynomial Representation
 A simple C program to represent and sort polynomial expressions.
 - Stores polynomials using array of structures
 - Sorts terms by exponents
 - Displays polynomial in standard form (ax^n + bx^m + ...)
-<p align='center'>
-  <img title="Polynomial" alt="Alt Polynomial" src="/images/polynomial_1.svg">
-</p>
+
+<div align="center">
+  <p align="center">
+    <img title="Polynomial" alt="Polynomial 1" src="/images/polynomial_2.png" width="300" style="display: inline-block;">
+    <img title="Polynomial" alt="Polynomial 2" src="/images/polynomial_1.svg" width="150" style="display: inline-block;">
+  </p>
+</div>
 <br>
 Example
 
