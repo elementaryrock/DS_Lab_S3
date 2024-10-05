@@ -25,5 +25,18 @@ Output:
 ## 2. Sparse Matrix Representation
 - The code takes an input matrix of arbitrary size and identifies non-zero elements.
 - It then creates a new matrix (effective matrix) that stores only the non-zero elements along with their row and column indices. This is more efficient for sparse matrices with many zero elements.
+<div align="center">
+  <p align="center">
+    <img title="Sparse" alt="Sparse 1" src="/images/Sparse_1.svg" width="1000" style="display: inline-block;">
+  </p>
+</div>
 
-<img title="Sparse" alt="Sparse 1" src="/images/Sparse_1.svg" style="display: inline-block;">
+
+## 3. Stack using array
+- The code provides a basic implementation of a stack using an array.
+- It allows users to perform common stack operations like push, pop, display, and exit.
+<div align="center">
+  <p align="center">
+    <img title="Stack" alt="Stack 1" src="/images/Stack_1.svg" width="700" style="display: inline-block;">
+  </p>
+</div>
