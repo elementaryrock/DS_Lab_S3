@@ -20,7 +20,7 @@ Coefficients and exponents: 2 3 4 1 3 2
 ```
 ```
 Output:
-4x^1 + 3x^2 + 2x^3
+2x^3 + 3x^2 + 4x^1
 ```
 ## 2. Sparse Matrix Representation
 - The code takes an input matrix of arbitrary size and identifies non-zero elements.
