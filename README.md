@@ -40,3 +40,13 @@ Output:
     <img title="Stack" alt="Stack 1" src="/images/Stack_1.svg" width="700" style="display: inline-block;">
   </p>
 </div>
+
+## 4. Linear Queue Representation using arrays
+- The code provides a basic implementation of a queue using an array.
+- It allows users to perform common queue operations like enqueue, dequeue, display, and exit.
+
+<div align="center">
+  <p align="center">
+    <img title="Linear Queue" alt="Linear Queue 1" src="/images/Queue_1.svg" width="300" style="display: inline-block;">
+  </p>
+</div>
